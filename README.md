@@ -7,3 +7,5 @@ a program for testing.
 have fun.
 
 ## change a little by git
+## change as dir change
+
